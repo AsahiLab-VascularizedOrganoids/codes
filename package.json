@@ -1,0 +1,62 @@
+{
+  "author": "Yuya Sato[Asahi-lab]",
+  "bash": {
+    "fastq-dump": "https://github.com/ncbi/sra-tools/wiki"
+  },
+  "conda": {
+    "name": "VascOrgMeta",
+    "anaconda": {
+      "git": null,
+      "pandas": null,
+      "numpy": null
+    },
+    "conda-forge": {
+      "r-base": null,
+      "jupyter": null,
+      "r-irkernel": null,
+      "r-stringr": null,
+      "r-knitr": null,
+      "r-roxygen2": null,
+      "matplotlib": null,
+      "plotnine": null
+    },
+    "r": {
+      "r-stringi": null
+    }
+  },
+  "r": {
+    "base": {
+      "repr": null,
+      "IRdisplay": null,
+      "evaluate": null,
+      "crayon": null,
+      "pbdZMQ": null,
+      "devtools": null,
+      "uuid": null,
+      "digest": null,
+      "IRkernel": null,
+      "languageserver": null,
+      "tidyr": null,
+      "Seurat": null,
+      "ggplot2": null,
+      "BiocManager": null,
+      "pacman": null
+    },
+    "devtools": {
+      "LIST": "",
+      "INSTALL": "install"
+    },
+    "IRkernel": {
+      "LIST": "",
+      "INSTALL": "",
+      "installspec": null
+    },
+    "BiocManager": {
+      "LIST": "",
+      "INSTALL": "install",
+      "libs": {
+        "slingshot": null
+      }
+    }
+  }
+}

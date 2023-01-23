@@ -1,0 +1,4 @@
+sample_id,molecule_h5
+rep1,HUVEChCOd100Rep1/outs/molecule_info.h5
+rep2,HUVEChCOd100Rep2/outs/molecule_info.h5
+rep3,HUVEChCOd100Rep3/outs/molecule_info.h5

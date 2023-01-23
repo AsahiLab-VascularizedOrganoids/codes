@@ -1,0 +1,25 @@
+celltype	color	abbreviation	group	rough	marker
+PROG	"#68CDD4"	Progenitor Cell	Progenitor/Glia	Progenitor/Glia	SOX2
+NEC	"#30312C"	Neuroepithelial Cell	Progenitor/Glia	Progenitor/Glia	MSI1,NOTCH1
+oRG	"#68CDD5"	outer Radial Glia	Progenitor/Glia	Progenitor/Glia	HOPX,PTPRZ1
+PC	"#00CD6B"	Profilerating Cell	Prolif	Prolif	TOP2A,BIRC5
+IPC	"#3F87B6"	Intermediate Progenitor Cell	Neuron	Neuron	EOMES,PPP1R17
+Neuron	"#9691af"	Neuron	Neuron	Neuron	RBFOX3,TUBB3
+IN	"#5975db"	Inhibitory neuron	Neuron	Neuron	GAD1,GAD2
+EX	"#764C9C"	Excitatory Neuron	Neuron	Neuron	SLC17A6,SLC17A7,NR4A2
+AS	"#F17B2C"	Astrocyte	Progenitor/Glia	Progenitor/Glia	GFAP,AQP4
+OPC	"#F2DB2D"	Oligodendrocyte Progenitor Cell	Progenitor/Glia	Progenitor/Glia	OLIG1,OLIG2
+OC	"#FFC000"	Oligodendrocyte Cell	Progenitor/Glia	Progenitor/Glia	MBP
+CIL	"#738d00"	Cilia bearing-like Cell	Other	Other	FOXJ1,MNS1
+EPI	"#b08875"	Epithelial Cell	Other	Other	EPCAM
+EC	"#5a0000"	Endothelial Cell	Endothelial	Vascular	CLDN5
+PER	"#3a28dc"	Perycite	Perivasc	Vascular	RGS5,ABCC9
+SMC	"#c9427a"	Smooth Muscle Cell	Perivasc	Vascular	ACTA2,TAGLN
+SKMC	"#937e87"	Skeletal muscle 	Perivasc	Vascular	TNNI3,MYOD
+FB	"#5b835a"	Fibroblast	Perivasc	Vascular	COL1A1,LUM
+MLC	"#5b835b"	Mesodermal-like Cell	Perivasc	Vascular	COL1A1,LUM
+fbM	"#de8c20"	Fibromyocyte	Perivasc	Vascular	COL1A1,ACTA2,TAGLN,IGFBP5
+PVLC	"#d50000"	Perivascular-like Cell	Perivasc	Vascular	RGS5,ABCC9,ACTA2,TAGLN,COL1A1,LUM
+MGC	"#B220C7"	Microglia	Immune	Immune	CD53,CX3CR1
+UPRC	"#F8BDBD"	Unfolded Protein Responce Cell	Other	Other	DDIT3
+Unknown	"#6e6e6e"	Undefined	Other	Other	
